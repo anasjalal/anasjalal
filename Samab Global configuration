@@ -1,0 +1,13 @@
+workgroup = WORKGROUP
+server string = Samba Server
+netbios name = ubuntu
+security = user
+map to guest = bad user
+dns proxy = no
+[Public]
+path = /var/samba/shares/public
+browsable =yes
+writable = yes
+guest ok = yes
+read only = no
+create mask = 644
