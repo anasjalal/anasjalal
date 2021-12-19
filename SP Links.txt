@@ -3,3 +3,4 @@ https://vladilen.com/content/sharepoint-keys
 https://spgeeks.devoworx.com/sharepoint-2019-limitations/
 https://docs.microsoft.com/en-us/officeonlineserver/deploy-office-online-server
 https://www.mediafire.com/file/gg4uqvpwtqbbmt3/SP16+19.rar/file
+https://docs.microsoft.com/en-us/sharepoint/sites/set-up-onedrive-for-business
